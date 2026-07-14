@@ -2,6 +2,10 @@
 
 A professional, production-grade Power BI and Python-based data analytics dashboard analyzing PhonePe transaction data from 2024. This project demonstrates complete data analytics workflows, from raw data to business intelligence insights.
 
+**📌 Repository**: [https://github.com/GOD694/PhonePe_2024_data_dashboard](https://github.com/GOD694/PhonePe_2024_data_dashboard)
+
+---
+
 ## 📚 Learning Outcomes
 
 This project is a **resume-ready portfolio piece** that covers:
@@ -563,12 +567,14 @@ This project is open source and available under the MIT License.
 - **GOD694** - [GitHub Profile](https://github.com/GOD694)
 - **Project**: PhonePe 2024 Data Analytics Dashboard
 - **Version**: 1.0 (Production Ready)
+- **Repository**: [https://github.com/GOD694/PhonePe_2024_data_dashboard](https://github.com/GOD694/PhonePe_2024_data_dashboard)
 
 ## 📞 Support & Feedback
 
 For questions, issues, or feedback:
 - [Open an Issue](https://github.com/GOD694/PhonePe_2024_data_dashboard/issues)
 - [GitHub Discussions](https://github.com/GOD694/PhonePe_2024_data_dashboard/discussions)
+- [Visit Repository](https://github.com/GOD694/PhonePe_2024_data_dashboard)
 
 ## 📚 Resources & References
 
@@ -598,6 +604,7 @@ For questions, issues, or feedback:
 | Run ETL pipeline | `python etl_pipeline.py` |
 | Start Streamlit app | `streamlit run app.py` |
 | Open Power BI | Open `PhonePe_Dashboard.pbix` in Power BI Desktop |
+| Visit Repository | https://github.com/GOD694/PhonePe_2024_data_dashboard |
 
 ## 📅 Project Timeline
 
@@ -620,5 +627,7 @@ For questions, issues, or feedback:
 ---
 
 **Status**: ✅ Production Ready | **Last Updated**: July 2026
+
+**Repository**: [https://github.com/GOD694/PhonePe_2024_data_dashboard](https://github.com/GOD694/PhonePe_2024_data_dashboard)
 
 **A complete, professional data analytics project demonstrating enterprise-level business intelligence and data analysis capabilities.**
